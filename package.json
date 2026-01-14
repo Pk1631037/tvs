@@ -10,7 +10,7 @@
     "expo": "^37.0.12",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-native": "^0.62.2",
+    "react-native": "^0.82.1",
     "react-native-loading-spinner-overlay": "^1.1.0",
     "react-native-media-queries": "^0.3.0",
     "react-native-responsive-fontsize": "^0.4.3",
